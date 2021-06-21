@@ -1,7 +1,8 @@
 # - 👋 Hi, I’m @iamtapendu
 ### - 👀 I’m interested in Data Science, Machine Learning field
 ### - 🌱 I’m currently learning ML and DL
-### - 📫 How to reach me tape100kamar@gmail.com
+### - 📫 reach me tape100kamar@gmail.com
+### - :runner: Visit https://iamtapendu.github.io
 
 <!---
 iamtapendu/iamtapendu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
