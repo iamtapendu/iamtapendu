@@ -2,7 +2,7 @@
 ### - :technologist: Works @ Hexaware Technologies
 ### - 👀 I’m interested in Data Science, Machine Learning field
 ### - 🌱 I’m currently learning ML and DL
-### - 📫 reach me tape100kamar@gmail.com
+### - 📫 reach me tapendukarma@gmail.com
 ### - :runner: Visit https://iamtapendu.github.io
 
 <!---
