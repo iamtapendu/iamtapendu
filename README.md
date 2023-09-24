@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @iamtapendu
-### - :technologist: Works @ Hexaware Technologies
-### - 👀 I’m interested in Data Science, Machine Learning field
+### - :technologist: Studying Masters in Data Science @ Chandigarh University
+### - 👀 I’m interested in Data Science, Machine Learning
 ### - 🌱 I’m currently learning ML and DL
 ### - 📫 reach me tapendukarma@gmail.com
 ### - :runner: Visit My <a href='https://iamtapendu.github.io' target='_blank'>Portfolio</a> 
