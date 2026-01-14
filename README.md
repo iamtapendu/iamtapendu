@@ -9,23 +9,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Active-success?style=for-the-badge" />
 </p>
 
-
-
-
-
-<table cellpadding="0" cellspacing="0" border="0px" padding="0" margin="0" width="100%">
-  <tr>
-    <td width="85%">
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-           style="max-width:100%; height:auto;" />
-    </td>
-    <td width="15%">
-      <img src="https://github.com/user-attachments/assets/0173e723-ff92-42b3-87ff-0efd583015b5"
-           width="140"
-           style="border-radius:50%; max-width:100%; height:auto;" />
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto;" />
 
 ## 🚀 About Me
 
